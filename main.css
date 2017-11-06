@@ -59,4 +59,10 @@ body {
     background-color: #ddd;
     color: black;
 }
+
+/* Style the footer */
+.footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
 	
