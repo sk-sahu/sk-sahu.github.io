@@ -33,7 +33,7 @@ body {
 
 /* Style the header */
 .header {
-    background-image: url("cover.jpg");
+    background-image: url("pictures/cover.jpg");
     padding: 20px;
     text-align: center;
 }
@@ -44,7 +44,7 @@ body {
     background-color: #333;
 }
 
-/* Style the topnav links */
+/* Style the topnavigation bar links */
 .topnav a {
     float: left;
     display: block;
@@ -53,6 +53,12 @@ body {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+/* Style the profiles bar links */
+.profile {
+    text-align: center;
+	}
+
 
 /* Change color on hover */
 .topnav a:hover {
@@ -66,4 +72,8 @@ body {
     padding: 10px;
     text-align: center;
 }
-	
+
+.img-circle {
+    border-radius: 50%;
+	width: 110px;
+}
