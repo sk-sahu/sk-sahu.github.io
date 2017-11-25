@@ -1,34 +1,10 @@
-body 
-{
-    background-color: lightgray;
-}
-
-h3 
-{
-    color: white;
-    text-align: center;
-}
-
-h1 
-{
-    color: white;
-    text-align: center;
-}
-
-p 
-{
-	text-align: center;
-	font-family: verdana;
-	font-size: 20px;
-}
-
-
 * {
     box-sizing: border-box;
 }
 
 body {
-  margin: 0;
+  	margin: 0;
+	background-color: lightgray;
 }
 
 /* Style the header */
@@ -36,6 +12,7 @@ body {
     background-image: url("pictures/cover.jpg");
     padding: 20px;
     text-align: center;
+	color: white
 }
 
 /* Style the top navigation bar */
@@ -69,9 +46,15 @@ body {
 /* Style the footer */
 .footer {
     background-color: #f1f1f1;
-    padding: 10px;
-    text-align: center;
+    padding: 0px;
+    text-align: center;	
 }
+
+.middle-text
+	{
+	text-align: center;
+	}
+
 
 .img-circle {
     border-radius: 50%;
