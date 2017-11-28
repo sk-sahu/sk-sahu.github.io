@@ -16,6 +16,13 @@ body
 	color:#383838;
 }
 
+.content {
+  padding: 0 20px 75px 20px;
+  margin: 50px auto 0 auto;
+  width: 80%;
+text-align: center;
+}
+
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
@@ -55,4 +62,3 @@ body
     border-radius: 50%;
 	width: 130px;
 }
-	
