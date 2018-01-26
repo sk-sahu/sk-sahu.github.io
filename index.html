@@ -1,61 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+---
 
-<head>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="main.css">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-<title>Sangram Keshari Sahu</title>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-</head>
-
-<body>
-
-<!-- Page Header -->
-    
-<div class="header">
-<h1> Sangram Keshari Sahu </h1>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
-
-<!-- Navigation -->
-<div class="topnav">
-  	<a href="index.html">Home</a>
-	<a href="projects.html">Projects</a>
-	<a href="blog.html">Blog</a>
-  	<a href="contact.html">Contact</a>
-</div>
-
-<marquee behavior="scroll" direction="left"> Page is under Construction </marquee>
-
-<!-- Content will go here -->
-
-<div class="content">
-<a><img class="img-circle" src="pictures/sangram.jpg">
-<figcaption><b>Sangram Keshari Sahu</b></figcaption></a></br>
-
-<p> Hi! Welcome to my academic webpage.
-</br></br>
-I'm a graduate student in Bioinformatics from Pondicherry University, with research interest include but not limited to Computational Genomics, Next Generation Sequencing data (RNA-Seq, Chip-Seq, and Hi-C). I like to work in the backend development of Biological database and Web resources.</P>
-
-<P> For previous and on going research work you can refere to the Project tab.</P>
-
-<p> Feel free to reach me on:
-</br>
-</br>Twitter - <a href="https://twitter.com/sangram_ksahu">sangram_ksahu</a>
-</P>
-
-</div>
-
-
-
-<!-- Footer -->
-        <div class="footer">
-                    <p> 2017 | Copyright &copy; Sangram Keshari Sahu </p>
-        </div>
-
-
-</body>
-</html>
