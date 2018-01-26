@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am Sangram Keshari Sahu. By training, A bioinformatics graduate from Pondicherry University.
+
+Currently doing as a Junior Research Fellow (JRF) at IISER, Mohali.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My Current projects will updated here soon.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com)
