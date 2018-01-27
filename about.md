@@ -9,7 +9,7 @@ Currently doing as a Junior Research Fellow (JRF) at [IISER, Mohali].
 Projects details will updated here soon.
 
 ### More Information
-I also like to do Photography apart from curriculum. Mostly I clik on mobile (much handy than a DSLR, though I have one) and those pictures goes into my [Instagram] (Of course). Few of the high quality pictures (as they say) shots from DSLR you can find at my [500px.com] profile, They really store great details including metadata.
+I also like to do Photography apart from curriculum. Mostly I click on mobile (much handy than a DSLR, though I have one) and those pictures goes into my [Instagram] (Of course). Few of the high quality pictures (as they say) shots from DSLR you can find at my [500px.com] profile, They really store great details including metadata.
 
 ### Contact me
 
