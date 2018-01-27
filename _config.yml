@@ -18,18 +18,18 @@ avatar: images/sangram.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  googleplus: u/0/+SangramKeshariSahu_ClickHub # anything in your profile username that comes after plus.google.com/
+  googleplus: # anything in your profile username that comes after plus.google.com/
   email: 
   facebook:
   flickr:
   github: sk-sahu
-  instagram: sangram_keshari
+  instagram:
   linkedin: sangramkesharisahu
   pinterest:
   rss: sangram # just type anything here for a working RSS icon
   twitter: sangram_ksahu
   stackoverflow: users/8296335/sangram-keshari-sahu # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/MrSangram7 # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/<your_long_string> or user/<user-name>
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
