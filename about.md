@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+Hi! I am a graduate student in Bioinformatics from [BICPU], [Pondicherry University], With research interests in Computational Genomics. That include study with High-throughput data analysis and pipeline design. For now, I mostly use Perl and R as the primary language to deal with the data. Undoubtedly this is very exciting time for the field of Computational Biology, that we are living in.
  
-Hi! I am a graduate student in Bioinformatics from [BICPU], [Pondicherry University], With research interests in Computational Genomics. That include study with High-throughput data analysis and pipeline design. For now, I mostly use Perl and R as the basic language to play with the data. Undoubtedly this is very exciting time for the field of Computational Biology, that we are living in. 
 Currently doing as a Junior Research Fellow (JRF) at [IISER, Mohali].
 Projects details will updated here soon.
 
@@ -17,10 +18,10 @@ I also like to do Photography apart from curriculum. Mostly I click on mobile (m
 
 You can reach me on any of my online presence, Which are listed in bellow page footer section.
 
-Of course, you can also directly email on: 
+Of course, you can also directly email on:
 [sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com)
 
-Feel free to say Hi, I'll be happy to be reply :)
+Feel free to say Hi, I'll be happy to reply :)
 
 
 [Instagram]: http://instagram.com/sangram_keshari
