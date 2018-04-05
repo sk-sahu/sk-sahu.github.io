@@ -4,14 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am a graduate student in Bioinformatics from [BICPU], [Pondicherry University], With research interests in Computational Genomics. That include study with High-throughput data analysis and pipeline design. For now, I mostly use Perl and R as the primary language to deal with the data. Undoubtedly this is very exciting time for the field of Computational Biology, that we are living in.
+### About:
+Hi! I am Sangram Keshari Sahu, Junior Research Fellow (JRF) at [IISER, Mohali]. I completed my M.Sc. in Bioinformatics from [BICPU], [Pondicherry University].
 
-Currently doing as a Junior Research Fellow (JRF) at [IISER, Mohali].
+### Projects:
+
 Projects details will updated here soon. Find it in the project tab.
+
+### Subjects of Interest:
+
+- Computational Genomics
+- Systems Biology
+- Graph Theory
+- Data visulaization.
+
+> 2017: Undoubtedly this is a very exciting time for the field of Computational Biology, That we are living.
 
 ### More Information
 
-#### Photography adventure
+##### Photography adventure
 I also like to do Photography apart from curriculum. Mostly I click on mobile (much handy than a DSLR, though I have one) and those pictures goes into my [Instagram] (Of course). Few of the high quality pictures (as they say) shots from DSLR you can find at my [500px.com] profile, They really store great details including metadata of pictures. I also host a photography blog namely - [ClickHub Photos] dedicated to behind the pictures and travel stories. Follwing all this up I run a [Youtube channel] too, for small clips and timelapse.
 
 ### Contact me
