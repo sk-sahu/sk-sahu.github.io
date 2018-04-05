@@ -20,10 +20,10 @@ Projects details will updated here soon. Find it in the project tab.
 
 > 2017: Undoubtedly this is a very exciting time for the field of Computational Biology, That we are living.
 
-### More Information
+<!-- ### More Information
 
 ##### Photography adventure
-I also like to do Photography apart from curriculum. Mostly I click on mobile (much handy than a DSLR, though I have one) and those pictures goes into my [Instagram] (Of course). Few of the high quality pictures (as they say) shots from DSLR you can find at my [500px.com] profile, They really store great details including metadata of pictures. I also host a photography blog namely - [ClickHub Photos] dedicated to behind the pictures and travel stories. Follwing all this up I run a [Youtube channel] too, for small clips and timelapse.
+I also like to do Photography apart from curriculum. Mostly I click on mobile (much handy than a DSLR, though I have one) and those pictures goes into my [Instagram] (Of course). Few of the high quality pictures (as they say) shots from DSLR you can find at my [500px.com] profile, They really store great details including metadata of pictures. I also host a photography blog namely - [ClickHub Photos] dedicated to behind the pictures and travel stories. Follwing all this up I run a [Youtube channel] too, for small clips and timelapse. -->
 
 ### Contact me
 
