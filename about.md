@@ -8,21 +8,16 @@ I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing project i
 
 I have completed my M.Sc. degree in Bioinformatics from [BICPU], [Pondicherry University], with thesis work on Plant Transcriptome data. 
 
-Further details on other projects can find [here](https://sksahu.net/projects).
+Further details on other projects can be find [here](https://sksahu.net/projects).
 
 ### Contact me
-You can reach me on any of my online presence, Which are listed in bellow page footer section.
+I will be happy to have a chat about all the buzz on the field of AI and Tech around. You can reach me on [twitter: sangram_ksahu](https:/twitter.com/sangram_ksahu).
 
 You can also directly email me on:
 [sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com)
+[sangramk@iisermohali.ac.in](mailto:sangramk@iisermohali.ac.in)
 
-Feel free to say Hi, I'll be happy to reply :)
 
-
-[Instagram]: http://instagram.com/sangram_keshari
 [Pondicherry University]: http://www.pondiuni.edu.in
 [BICPU]: https://www.bicpu.edu.in
 [IISER, Mohali]: http://iisermohali.ac.in
-[500px.com]: https://500px.com/sangram_keshari
-[ClickHub Photos]: http://clickhubphotos.wordpress.com
-[Youtube channel]: https://www.youtube.com/user/MrSangram7
