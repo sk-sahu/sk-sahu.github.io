@@ -11,11 +11,10 @@ I have completed my M.Sc. degree in Bioinformatics from [BICPU], [Pondicherry Un
 Further details on other projects can be find [here](https://sksahu.net/projects).
 
 ### Contact me
-I will be happy to have a chat about all the buzz on the field of AI and Tech around. You can reach me on [twitter: sangram_ksahu](https:/twitter.com/sangram_ksahu).
+I will be happy to have a chat about all the buzz on the field of AI and Tech around. You can reach me on [Twitter](https:/twitter.com/sangram_ksahu).
 
 You can also directly email me on:
-[sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com)
-[sangramk@iisermohali.ac.in](mailto:sangramk@iisermohali.ac.in)
+[sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com) or [sangramk@iisermohali.ac.in](mailto:sangramk@iisermohali.ac.in)
 
 
 [Pondicherry University]: http://www.pondiuni.edu.in
