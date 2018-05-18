@@ -5,31 +5,18 @@ permalink: /about/
 ---
 
 ### About:
-Hi! I am Sangram Keshari Sahu, Junior Research Fellow (JRF) at [IISER, Mohali]. I completed my M.Sc. in Bioinformatics from [BICPU], [Pondicherry University].
 
-### Projects:
+![Sangram Keshari Sahu](images/sangram_2.jpg)
+I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing project in Computaional Biology. I am interested in High-Throughput Sequencing/NGS data and making sense out of it with relevant biological questions. I use data science tools (with R and Python) as a medium to answer biology. Besides this, I am passionate about complex networks and their behaviour.
 
-Projects details will updated here soon. Find it in the project tab.
+I have completed my M.Sc. degree in Bioinformatics from [BICPU], [Pondicherry University], with thesis work on Plant Transcriptome data. 
 
-### Subjects of Interest:
-
-- Computational Genomics
-- Systems Biology
-- Graph Theory
-- Data visulaization.
-
-> 2017: Undoubtedly this is a very exciting time for the field of Computational Biology, That we are living.
-
-<!-- ### More Information
-
-##### Photography adventure
-I also like to do Photography apart from curriculum. Mostly I click on mobile (much handy than a DSLR, though I have one) and those pictures goes into my [Instagram] (Of course). Few of the high quality pictures (as they say) shots from DSLR you can find at my [500px.com] profile, They really store great details including metadata of pictures. I also host a photography blog namely - [ClickHub Photos] dedicated to behind the pictures and travel stories. Follwing all this up I run a [Youtube channel] too, for small clips and timelapse. -->
+Further details on other projects can find [here](https://sksahu.net/projects).
 
 ### Contact me
-
 You can reach me on any of my online presence, Which are listed in bellow page footer section.
 
-Of course, you can also directly email on:
+You can also directly email me on:
 [sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com)
 
 Feel free to say Hi, I'll be happy to reply :)
