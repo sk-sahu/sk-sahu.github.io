@@ -20,4 +20,3 @@ You can also directly email me on:
 [Pondicherry University]: http://www.pondiuni.edu.in
 [BICPU]: https://www.bicpu.edu.in
 [IISER, Mohali]: http://iisermohali.ac.in
-https://twitter.com/sangram_ksahu
