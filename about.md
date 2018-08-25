@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi! Thanks for your interest to visit. Here are few details me :)
+Hi! Thanks for your interest to visit. Here are few details on me :)
 
 I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing project in a Plant Developmental Biology lab with area of research on Computaional Genomics and Bioinformatics.
 
 ### Broadly area of research interest:
+* I use data science platforms (R and Python) as a tool to answer biology.
 * High-Throughput Sequencing/NGS data and making sense out of it with relevant biological questions. I am optimistic with single-cell RNA-Seq.
-* I use data science platforms (R and Python) as a tool to answer biology. 
-* I am passionate about complex networks and their behaviour.
+* Passionate about complex networks and their behaviour.
 * Making rich visualization web apps/tools is my current favorite task.
 
 #### Few more details
