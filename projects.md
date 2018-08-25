@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Will be added here soon.
+### Arabidopsis EcoGEx - A Web App (Will be updated soon)
