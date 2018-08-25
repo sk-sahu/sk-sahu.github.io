@@ -4,9 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing project in Computaional Biology. I am interested in High-Throughput Sequencing/NGS data and making sense out of it with relevant biological questions. I use data science tools (with R and Python) as a medium to answer biology. Besides this, I am passionate about complex networks and their behaviour.
+Hi! Thanks for your interest to visit. Here are few details me :)
 
-I have completed my M.Sc. degree in Bioinformatics from [BICPU], [Pondicherry University], with thesis work on Plant Transcriptome data. 
+I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing project in a Plant Developmental Biology lab with area of research on Computaional Genomics and Bioinformatics.
+
+### Broadly area of research interest:
+* High-Throughput Sequencing/NGS data and making sense out of it with relevant biological questions. I am optimistic with single-cell RNA-Seq.
+* I use data science platforms (R and Python) as a tool to answer biology. 
+* I am passionate about complex networks and their behaviour.
+* Making rich visualization web apps/tools is my current favorite task.
+
+#### Few more details
+
+I have completed my M.Sc. degree in Bioinformatics from [BICPU], [Pondicherry University], with thesis title "A transcriptomic study on cold stress in two Indian rice varieties using RNA-Seq analysis." An abstract of the work published on Canadian Journal of Biotechnology (You can read it [here.])
 
 Further details on other projects can be find [here](https://sksahu.net/projects).
 
@@ -20,3 +30,4 @@ You can also directly email me on:
 [Pondicherry University]: http://www.pondiuni.edu.in
 [BICPU]: https://www.bicpu.edu.in
 [IISER, Mohali]: http://iisermohali.ac.in
+[here.]:https://www.canadianjbiotech.com/CAN_J_BIOTECH/Archives/v1/Special%20Issue/cjb.2017-a187.pdf
