@@ -19,7 +19,7 @@ I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing a project
 ### Scientific contributions:
 * Review and voluntary contribute to Omictools. [Omictools profile](https://omictools.com/profile/sangram-github)
 * An active user of Biostar forum. [Biostar Profile](https://www.biostars.org/u/36693/)
-* Review Scientific jornals. [Publons profile](publons.com/a/1564864/)
+* Review Scientific jornals. [Publons profile](https://publons.com/a/1564864/)
 
 
 ### Contact me
