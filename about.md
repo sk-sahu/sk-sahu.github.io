@@ -17,16 +17,15 @@ I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing a project
 * Making rich visualisation web apps/tools is my current favourite task.
 
 ### Scientific contributions:
-* Review and voluntary contribute to Omictools. [Omictools profile](https://omictools.com/profile/sangram-github)
-* An active user of Biostar forum. [Biostar Profile](https://www.biostars.org/u/36693/)
 * Review Scientific jornals. [Publons profile](https://publons.com/a/1564864/)
-
+* Bioinformatics Volunteer at Omictools. [Omictools profile](https://omictools.com/profile/sangram-github)
+* An active user in Biostar forum. [Biostar Profile](https://www.biostars.org/u/36693/)
 
 ### Contact me
-I will be happy to have a chat about all the buzz on the field of AI and Tech around. You can reach me on [Twitter](https://twitter.com/sangram_ksahu).
+I will be happy to have a chat about all the buzz on the field of AI and Tech around alongside scientific discussions. You can directly reach me on [Twitter](https://twitter.com/sangram_ksahu).
 
-You can also directly email me on:
-[sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com) or [sangramk@iisermohali.ac.in](mailto:sangramk@iisermohali.ac.in)
+Or just drop an email on:
+[sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com)
 
 
 [Pondicherry University]: http://www.pondiuni.edu.in

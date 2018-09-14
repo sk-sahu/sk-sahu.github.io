@@ -18,8 +18,8 @@ avatar: images/sangram.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  googleplus: u/0/+SangramkeshariSahu_Google # anything in your profile username that comes after plus.google.com/
-  email: sangramsahu15@gmail.com
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  email:
   facebook:
   flickr:
   github: sk-sahu
