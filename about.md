@@ -7,11 +7,13 @@ permalink: /about/
 Hi! I am Sangram.
 Thank you for taking your precious time to visit my site :)
 
+![sangram keshari sahu](images/sksahu.jpeg#right)
+
 I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing project in a Plant Developmental Biology lab with the area of research on Computational Genomics and Systems Biology. I have completed my M.Sc. degree in Bioinformatics from [BICPU], [Pondicherry University] in 2017. For more information my [Linkedin Profile]
 
 ### Broadly area of research interest:
 * I use data science platforms (R and Python) as a tool to answer biology.
-* Use of High-Throughput Sequencing or NGS data and making sense out of it with relevant biological questions. 
+* Use of High-Throughput Sequencing or NGS data and making sense out of it with relevant biological questions.
 * I am optimistic about single-cell RNA-Seq.
 * Passionate about complex networks and their behaviour.
 * Developing web apps/tools for Biolgical community is my current favourite task. (check the project tab)
@@ -31,4 +33,3 @@ Or just drop an email on:
 [Pondicherry University]: http://www.pondiuni.edu.in
 [BICPU]: https://www.bicpu.edu.in
 [IISER, Mohali]: http://iisermohali.ac.in
-
