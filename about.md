@@ -8,7 +8,8 @@ Hi! I am Sangram.
 Thank you for taking your precious time to visit my site :)
 
 <img src="images/sksahu.jpeg" 
-      alt="Sangram Keshari Sahu" 
+      alt="Sangram Keshari Sahu"
+      width="50"
  />
 
 I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing project in a Plant Developmental Biology lab with the area of research on Computational Genomics and Systems Biology. I have completed my M.Sc. degree in Bioinformatics from [BICPU], [Pondicherry University] in 2017. For more information my [Linkedin Profile]
