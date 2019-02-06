@@ -5,23 +5,28 @@ permalink: /about/
 ---
 
 Hi! I am Sangram.
-Thank you for taking your precious time to visit my site :)
+Thanks for stoping by :) 
 
-I am currently a Junior Research Fellow (JRF) at [IISER, Mohali] doing project in a Plant Developmental Biology lab with the area of research on Computational Genomics and Systems Biology. I have completed my M.Sc. degree in Bioinformatics from [BICPU], [Pondicherry University] in 2017. For more information my [Linkedin Profile]
+### What I do?
+I'm a Computational Biologist, Currently a Junior Research Fellow (JRF) at [IISER, Mohali] in a Plant Developmental Biology lab with the area of research in Genomics and Systems Biology. I received my M.Sc. Bioinformatics from [BICPU], [Pondicherry University] in 2017. 
 
-### Broadly area of research interest:
-* I use data science platforms (R and Python) as a tool to answer biology.
-* Use of High-Throughput Sequencing or NGS data and making sense out of it with relevant biological questions.
-* I am optimistic about single-cell RNA-Seq.
-* Passionate about complex networks and their behaviour.
-* Developing web apps/tools for Biolgical community is my current favourite task. (check the project tab)
+In my most days, I mainly use data science platforms (In R and Python) as a medium to answer biological questions. Recently involved in developing web apps/tools for Biolgical community for data visualisation.
 
-### Scientific contributions:
+More details on work in the Projects and CV tab.
+
+### Broad areas of Research Interest:
+* Genomics and Systems Biology
+* Single-cell Transcriptomics
+* Data Visualization
+* Application of Deep learning in Biology
+
+### Scientific Volunteering:
 * Peer-Review on Scientific Jornals. [Publons profile](https://publons.com/a/1564864/)
 * Bioinformatics Volunteer/Curator in Omictools platform. [Omictools profile](https://omictools.com/profile/sangram-github)
+* Constant contribution to open source research and platforms.
 
-### Contact me
-I will be happy to have a chat about all the buzz on the field of AI and Tech around alongside scientific discussions. You can directly reach me on [Twitter](https://twitter.com/sangram_ksahu).
+### Contact me:
+Any thing you want to discuss! I will be happy. You can reach me on [Twitter](https://twitter.com/sangram_ksahu).
 
 Or just drop an e-mail:
 [sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com)
