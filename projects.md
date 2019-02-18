@@ -7,8 +7,8 @@ permalink: /projects/
 #### Project links:
 
 ##### Web-tools:
-* [EcoGEx](https://sangram.shinyapps.io/EcoGEx/): A webtool for Arabidopsis Gene Expression across Ecotypes.
-* [CGEPS](https://sangram.shinyapps.io/CGEPS/)
+* [EcoGEx](https://sangram.shinyapps.io/EcoGEx/): A webtool for Arabidopsis Gene Expression across Ecotypes. ![](https://img.shields.io/website-up-down-green-orange/https/sangram.shinyapps.io/EcoGEx.svg?style=flat)
+* [CGEPS](https://sangram.shinyapps.io/CGEPS/) ![](https://img.shields.io/website-up-down-green-red/https/https://sangram.shinyapps.io/CGEPS/.svg?style=flat)
 
 ##### Notes:
 * [Snakemake-RNASeq-Workflow](http://sksahu.net/Snakemake-RNASeq-Workflows/)
