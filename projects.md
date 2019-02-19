@@ -7,7 +7,7 @@ permalink: /projects/
 #### Project links:
 
 ##### Web-tools:
-* [EcoGEx](https://sangram.shinyapps.io/EcoGEx/): (R-📦 + 🕸️-App) [![](https://img.shields.io/website-up-down-green-orange/https/sangram.shinyapps.io/EcoGEx.svg?style=flat)](https://sangram.shinyapps.io/EcoGEx/) [![GitHub watchers](https://img.shields.io/github/watchers/sk-sahu/EcoGEx.svg?label=On%20GitHub%20Repo&style=social)](https://github.com/sk-sahu/EcoGEx)
+* [EcoGEx](https://sangram.shinyapps.io/EcoGEx/) (R-📦 + 🕸️-App) [![](https://img.shields.io/website-up-down-green-orange/https/sangram.shinyapps.io/EcoGEx.svg?style=flat)](https://sangram.shinyapps.io/EcoGEx/) [![GitHub watchers](https://img.shields.io/github/watchers/sk-sahu/EcoGEx.svg?label=On%20GitHub%20Repo&style=social)](https://github.com/sk-sahu/EcoGEx)
 * [CGEPS](https://sangram.shinyapps.io/CGEPS/) [![](https://img.shields.io/website-up-down-green-red/https/https://sangram.shinyapps.io/CGEPS/.svg?style=flat)](https://sangram.shinyapps.io/CGEPS/)
 
 ##### Notes:
