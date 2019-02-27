@@ -13,6 +13,7 @@ I'm a Computational Biologist, Currently a Junior Research Fellow (JRF) at [IISE
 In my most days, I mainly use data science platforms (In R and Python) as a medium to answer biological questions. Recently involved in developing web apps/tools for Biolgical community for data visualisation.
 
 More details on work in the Projects and CV tab.
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5010-9539" href="https://orcid.org/0000-0001-5010-9539" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-5010-9539</a></div>
 
 ### Broad areas of Research Interest:
 * Genomics and Systems Biology
