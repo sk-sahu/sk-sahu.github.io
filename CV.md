@@ -1,7 +1,7 @@
 ---
-layout: post
-date: 2018-1-26 17:00:00
-title: cv test
+layout: page
+title: About
+permalink: /cv_test/
 ---
 
 # SANGRAM KESHARI SAHU
