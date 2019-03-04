@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CV
-permalink: /CV_test/
+date: 2018-1-26 17:00:00
+title: cv test
 ---
 
 # SANGRAM KESHARI SAHU
