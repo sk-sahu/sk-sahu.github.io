@@ -1,3 +1,9 @@
+---
+layout: page
+title: CV
+permalink: /CV_test/
+---
+
 # SANGRAM KESHARI SAHU
 
 Date of Birth: 11/09/1994  
