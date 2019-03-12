@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 <img src="images/sksahu.jpeg"
-     align="right" width="130" />
+     align="right" width="150" 
+     title="Sangram Keshari Sahu" alt="avatar" />
 
 Hi! I am Sangram.  
 Thanks for stoping by :)
