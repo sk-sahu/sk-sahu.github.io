@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $hackgreen;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $hackgreen;
   }
 }
 
@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $gray;
+  background-color: $darkerGray;
 }
 
 footer {
