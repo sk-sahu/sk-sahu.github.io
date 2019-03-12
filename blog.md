@@ -9,7 +9,7 @@ layout: default
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="date">
-      Written on {{ page.date | date: "%B %e, %Y" }}
+        {{ page.date | date: "%B %e, %Y" }}
       </div>
       
     </article>
