@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am Sangram.  
-Thanks for stoping by :) 
-
 <img src="images/sksahu.jpeg"
      align="right" width="130" />
+
+Hi! I am Sangram.  
+Thanks for stoping by :) 
      
 ### What I work?
-I'm a Computational Biologist, and currently a Junior Research Fellow (JRF) at [IISER, Mohali] in Plant Developmental Biology lab with the area of research in Genomics and Systems Biology. I received my M.Sc. Bioinformatics from [BICPU], [Pondicherry University] in 2017. 
+I'm a Computational Biologist by training and currently a Junior Research Fellow (JRF) at [IISER, Mohali] in Plant Developmental Biology lab with the area of research in Genomics and Systems Biology. I received my M.Sc. Bioinformatics from [BICPU], [Pondicherry University] in 2017. 
 
 In my most days, I mainly use data science platforms (In R and Python) as a medium to answer biological questions. Recently involved in developing web apps/tools for Biolgical community for data visualisation.
 
