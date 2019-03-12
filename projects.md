@@ -13,8 +13,8 @@ Compare Transcriptome of two developmental stages in Arabidopsis shoot.
 Explore abiotic stress of a gene in plants.
 
 ## Notes:
-* [🐍make-RNASeq-Workflow](http://sksahu.net/Snakemake-RNASeq-Workflows/) [![GitHub watchers](https://img.shields.io/github/watchers/sk-sahu/Snakemake-RNASeq-Workflows.svg?label=On%20GitHub%20Repo&style=social)](https://github.com/sk-sahu/Snakemake-RNASeq-Workflows)  
-This consist of diffrent snakemake workflows to analyse biological data. (Additionals work in progress.)
+* [Snakeflows](http://sksahu.net/Snakeflows) [![GitHub watchers](https://img.shields.io/github/watchers/sk-sahu/Snakeflows.svg?label=On%20GitHub%20Repo&style=social)](https://github.com/sk-sahu/Snakeflows)  
+Collective Snakemake workflows for NGS data analysis easy.
 
 ## Other projects:
 * A transcriptomic study on cold stress in two Indian rice varieties. Abstract: [![doi](https://img.shields.io/badge/DOI-10.24870/cjb.2017--a187-blue.svg?style=flat)](https://doi.org/10.24870/cjb.2017-a187)
