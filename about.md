@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img src="images/sksahu.jpeg"
+<img src="https://sksahu.net/images/sksahu.jpeg"
      align="right" width="150" 
-     title="Sangram Keshari Sahu" alt="avatar" />
+     title="Sangram Keshari Sahu" 
+     alt="Sangram Keshari Sahu" />
 
 Hi! I am Sangram.  
 Thanks for stoping by :)
