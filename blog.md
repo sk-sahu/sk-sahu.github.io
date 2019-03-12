@@ -1,1 +1,1 @@
-* [Snakemake-RNASeq-Workflow](http://sksahu.net/Snakemake-RNASeq-Workflows/)
+* [Snakemake-RNASeq-Workflow](http://sksahu.net/Snakeflows/)
