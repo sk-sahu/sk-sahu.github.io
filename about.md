@@ -4,13 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://sksahu.net/images/sksahu.jpeg"
-     align="right" width="150" 
-     title="Sangram Keshari Sahu" 
-     alt="Sangram Keshari Sahu" />
 
-Hi! I am Sangram.  
-Thanks for stoping by :)
+Hi! I am Sangram. Thanks for stoping by :)
      
 ### What do I work?
 I'm a Computational Biologist by training and currently a Junior Research Fellow (JRF) at [IISER, Mohali] in Plant Developmental Biology lab with the area of research in Genomics and Systems Biology. I received my M.Sc. Bioinformatics from [BICPU], [Pondicherry University] in 2017. 
