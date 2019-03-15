@@ -26,11 +26,8 @@ More details on my recent and past works in the Projects tab.
 Anything you want to discuss!
 You can reach me directly on [Twitter](https://twitter.com/sangram_ksahu).
 
-Or just drop an e-mail:
-[sangramsahu15@gmail.com](mailto:sangramsahu15@gmail.com)
+Or connect on freenode [![Join the IRC chat](https://img.shields.io/badge/chat-on_irc-9cf.svg)](http://webchat.freenode.net?channels=sksahu)
 
-
-[Linkedin Profile]:https://www.linkedin.com/in/sangramkesharisahu/
 [Pondicherry University]: http://www.pondiuni.edu.in
 [BICPU]: https://www.bicpu.edu.in
 [IISER, Mohali]: http://iisermohali.ac.in
