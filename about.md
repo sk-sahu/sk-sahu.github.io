@@ -26,7 +26,7 @@ More details on my recent and past works in the Projects tab.
 Anything you want to discuss!
 You can reach me directly on [Twitter](https://twitter.com/sangram_ksahu).
 
-Or connect on freenode [![Join the IRC chat](https://img.shields.io/badge/chat-on_irc-9cf.svg)](http://webchat.freenode.net?channels=sksahu)
+Or connect on freenode [![Join the IRC chat](https://img.shields.io/badge/chat-on_irc-yellow.svg)](http://webchat.freenode.net?channels=sksahu)
 
 [Pondicherry University]: http://www.pondiuni.edu.in
 [BICPU]: https://www.bicpu.edu.in
