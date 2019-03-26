@@ -13,7 +13,7 @@ Compare Transcriptome of two developmental stages in Arabidopsis shoot.
 Explore abiotic stress of a gene in plants.
 
 ## Notes:
-* [Snakeflows](http://sksahu.net/Snakeflows) [![GitHub watchers](https://img.shields.io/github/watchers/sk-sahu/Snakeflows.svg?label=On%20GitHub%20Repo&style=social)](https://github.com/sk-sahu/Snakeflows)  
+* [Snakeflows](https://sksahu.net/Snakeflows) [![GitHub watchers](https://img.shields.io/github/watchers/sk-sahu/Snakeflows.svg?label=On%20GitHub%20Repo&style=social)](https://github.com/sk-sahu/Snakeflows)  
 Collective Snakemake workflows for NGS data analysis easy.
 
 ## Other projects:
