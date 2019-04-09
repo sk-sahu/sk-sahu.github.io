@@ -6,4 +6,4 @@ For help
 
 https://github.com/barryclark/jekyll-now
 
-update
+update 1
