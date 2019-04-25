@@ -7,4 +7,5 @@ For help
 https://github.com/barryclark/jekyll-now
 
 update 1
-hola nola
+hola nola 
+koda moda
