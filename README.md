@@ -9,3 +9,4 @@ https://github.com/barryclark/jekyll-now
 update 1
 hola nola 
 koda moda
+haka moto
