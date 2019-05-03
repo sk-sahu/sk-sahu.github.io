@@ -10,3 +10,6 @@ update 1
 hola nola 
 koda moda
 haka moto
+
+conda update conda
+conda env create -f requirements.yml
