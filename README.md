@@ -13,3 +13,5 @@ haka moto
 
 conda update conda
 conda env create -f requirements.yml
+
+gh
