@@ -14,7 +14,7 @@ Explore abiotic stress of a gene in plants.
 * [Rmplates](https://sk-sahu.github.io/Rmplates/) **RM**arkdown Te**mplates** R-📦
 
 ## Teaching:
-* [learn-R](https://sk-sahu.github.io/learn-R)for Biologists new to programming.
+* [learn-R](https://sk-sahu.github.io/learn-R) for Biologists new to programming.
 
 ## Notes:
 * [Snakeflows](https://sksahu.net/Snakeflows) [![GitHub watchers](https://img.shields.io/github/watchers/sk-sahu/Snakeflows.svg?label=On%20GitHub%20Repo&style=social)](https://github.com/sk-sahu/Snakeflows)  
